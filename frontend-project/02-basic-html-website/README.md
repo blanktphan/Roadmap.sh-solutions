@@ -1,8 +1,6 @@
 # Project: Basic HTML Website
 
-![alt text](image-1.png)
-
-You can vote on the solution to this problem at the [link](https://roadmap.sh/projects/basic-html-website/solutions?u=683bb642d3156c8eaf44200b).
+![alt text](./image/image.png)
 
 ## 🎯 The Challenge form [Roadmap](https://roadmap.sh/)
 
@@ -49,6 +47,8 @@ After completing this project, you will have a good understanding of how to stru
 ![My solution](./image/image2.png)
 ![My solution](./image/image3.png)
 ![My solution](./image/image4.png)
+
+You can vote on the solution to this problem at the [link](https://roadmap.sh/projects/basic-html-website/solutions?u=683bb642d3156c8eaf44200b).
 
 ---
 
@@ -305,20 +305,6 @@ This project demonstrates:
 - **CSS layout systems** preparation for future styling
 - **Web accessibility principles** implementation
 - **Professional development practices** and code organization
-
-### 🚀 Next Steps
-
-This HTML foundation is prepared for:
-- **Advanced CSS styling** and responsive design
-- **JavaScript interactivity** and form handling
-- **Backend integration** for form processing
-- **Performance optimizations** and loading strategies
-- **Advanced accessibility features** and ARIA implementation
-- **Progressive Web App** conversion
-
----
-
-You can vote on the solution to this problem at the [link](https://roadmap.sh/projects/basic-html-website/solutions?u=683bb642d3156c8eaf44200b)
 
 ---
 
